@@ -1,10 +1,11 @@
-- 👋 Hi, I’m @a2s8en10
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+<h1 align="center">Hii 👋, I'm Anurag Sahu</h1>
 
-<!---
-a2s8en10/a2s8en10 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+> 🎓 Currently, I am pursuing B-Tech from Trinity Institute of Technology & Research, Bhopal in Computer Science Engineering.
+ 
+> 🌱 I’m currently learning C++ and  Web Development.
+
+> 📫 How to reach me ashsahu9713@gmail.com
+
+> ⚡️ Fun fact I love to improve my understanding and competence at every points of life.
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=a2s8en10&" alt="a2s8en10" /></p>
