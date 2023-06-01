@@ -4,7 +4,7 @@
  
 > 🌱 I’m currently learning C++ and  Web Development.
 
-> 📫 How to reach me ashsahu9713@gmail.com
+> 📫 How to reach me anu.sahu9589@gmail.com
 
 > ⚡️ Fun fact I love to improve my understanding and competence at every points of life.
 
