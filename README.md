@@ -2,7 +2,7 @@
 
 > 🎓 Currently, I am pursuing B-Tech from Trinity Institute of Technology & Research, Bhopal in Computer Science Engineering.
  
-> 🌱 I’m currently learning C++ and  Web Development.
+> 🌱 I’m currently learning C++ , c# and  Web Development.
 
 > 📫 How to reach me anu.sahu9589@gmail.com
 
