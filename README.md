@@ -10,7 +10,7 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=a2s8en10&" alt="a2s8en10" /></p>
 heyyy
-heey
+heeyafwwwddw
 hurrbafe
 eergerhe
 grg
