@@ -9,24 +9,5 @@
 > ⚡️ Fun fact I love to improve my understanding and competence at every points of life.
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=a2s8en10&" alt="a2s8en10" /></p>
-hshshejd ki
-asssqcwd
 
-wrwdercwevwf2
-we
-we
-fwe
-fwevhjjt
-ttfty
-rhwefet
-ggdyyt
-gr4h rc
-h6h5656g56
-deverfnfbdbd
-bdbdbtbdjsb
-fsejtnf
-bfnfs
-vre
-wfdvwrvw
-fwefwevgjbc
-gg
+xqwqqww
