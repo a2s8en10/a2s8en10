@@ -8,9 +8,6 @@
 
 > ⚡️ Fun fact I love to improve my understanding and competence at every points of life.
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=a2s8en10&" alt="a2s8en10" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=a2s8en10&" alt="a2s8en10" /></ph>
 
-c
-vdj
-wbbej
-aaaa
+jcjcchvjv
