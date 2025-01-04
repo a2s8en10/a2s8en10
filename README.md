@@ -1,4 +1,4 @@
-<h1 align="center">Hii 👋, I'm Anurag Sahu</h1>
+ <h1 align="center">Hii 👋, I'm Anurag Sahu</h1>
 
 > 🎓 Currently, I am pursuing B-Tech from Trinity Institute of Technology & Research, Bhopal in Computer Science Engineering.
  
