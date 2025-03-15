@@ -1,4 +1,4 @@
-              <!--# 💫 About Me : -->
+                <!--# 💫 About Me : -->
 <h1 align="center">Hii 👋, I'm Anurag Sahu</h1><br><br>🎓 Currently, I am pursuing B-Tech from Prestige Institute of Management & Research, Bhopal in Computer Science Engineering.<br> <br> 🌱 I’m currently learning C++ , C#  and  Web Development.<br><br> 📫 How to reach me anu.sahu9589@gmail.com<br><br> ⚡️ Fun fact I love to improve my understanding and competence at every points of life.
 
 
